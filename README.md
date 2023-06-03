@@ -6,6 +6,8 @@ fairness_sdk is a Python library developed for the project, aimed at addressing 
 
 The sub-modules available in fairness_sdk are as follows:
 
+![Sub-module Tree](fairness.png)
+
 ### data_preparation
 
 This sub-module includes functions for loading and preparing the training and test data, primarily focusing on the RAF-DB dataset. It also encompasses feature engineering tasks.
