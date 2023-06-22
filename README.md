@@ -16,21 +16,9 @@ This sub-module includes functions for loading and preparing the training and te
 
 The data_augmentation sub-module contains functions for performing data augmentation techniques. These techniques help increase the size of the training dataset and prevent overfitting.
 
-### data_visualization
-
-The data_visualization sub-module provides functions for visualizing data distributions, enabling a better understanding of the datasets. It also allows for the comparison of different machine learning models.
-
 ### data_balancing
 
 The data_balancing sub-module is responsible for balancing the training and test datasets. It includes functions to address any class imbalance issues and ensure fair representation of different classes.
-
-### model_testing
-
-The model_testing sub-module offers functions for testing machine learning models. It provides evaluation metrics and techniques to assess model performance.
-
-### model_benchmarking
-
-The model_benchmarking sub-module facilitates the comparison of different models. It includes functions to measure and compare model performance, assisting in selecting the most suitable model for the task.
 
 ## Usage
 
