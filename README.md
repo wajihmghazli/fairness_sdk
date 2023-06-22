@@ -1,6 +1,6 @@
 # fairness_sdk
 
-fairness_sdk is a Python library developed for the project, aimed at addressing fairness concerns in machine learning models. It provides various sub-modules to facilitate data preparation, data augmentation, data visualization, data balancing, model testing, and model benchmarking.
+fairness_sdk is a Python library developed for the project, aimed at addressing fairness concerns in machine learning models. It provides various sub-modules to facilitate data preparation, data augmentation and data balancing.
 
 ## Sub-modules
 
